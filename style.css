@@ -1,0 +1,105 @@
+.vertical-menu {
+  color: red;
+}
+
+h1 {
+  color: blue;
+  font-size: 50px;
+  font-style: italic;
+  border: solid 4px;
+  border-radius: 50px;
+  background-color: black;
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+  
+}
+.dig{
+  height: 200px;
+  width: 400x;
+  border: solid 3px;
+  border-radius: 200px;
+  align-content: right;
+}
+p {
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  boder: solid 20px green;
+  border-radius: 30px;
+  background-color: aliceblue; 
+}
+.dog{
+  height: 200px;
+  width: 305px;
+  border: solid 2px;
+  border-radius: 0px
+  
+}
+.fog{
+  font-size: 25px;
+  boder: solid 0px;
+  border-radius: 0px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+.chop{
+  font-size: 25px;
+  border: solid 0px;
+  border-radius: 0px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+.line{
+  font-size: 25px;
+  background-color: whitesmoke;
+  
+}
+.flip{
+  border: solid 2px;
+  border-radius: 0px;
+  width: 300px;
+}
+.dose{
+  width: 305px;
+  height: 200px;
+  border: solid 2px;
+  border-radius: 0px;
+}
+
+.fish{
+ text-align: center;
+  font-size: 25px;
+  font-style: 0;
+  border: solid 0px;
+  border-radius: 0px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+  
+.slot {
+  border: solid 3px red;
+  background-color: lightblue;
+  border-radius: 7px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.smoke {
+  border: 0px;
+  border-radius: 0px;
+  background-color: whitesmoke;
+  font-size: 28px;
+  font-style: bold;
+}
+
+.beef {
+  color: blue;
+}
+
+.fix {
+  background-color: blue;
+  padding: left 40px top 30px;
+}
